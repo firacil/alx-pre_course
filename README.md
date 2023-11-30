@@ -16,10 +16,10 @@ This is a repository that will contain all projects created during ALX-PRE_COURS
 
 ### Project-Setup Instructions
 
-Open your github account and search for github username: **wendymunyasi**.
+Open your github account and search for github username: **firacil**.
 
 - git clone using the following link.
-   link: https://github.com/wendymunyasi/-alx-pre_course.git
+   link: https://github.com/firacil/-alx-pre_course.git
 
 
 #### Github-link to ALX-PRE_COURSE
